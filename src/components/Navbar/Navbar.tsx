@@ -4,10 +4,13 @@ const Navbar = () => {
       data-aos="fade"
       className="fixed w-screen z-10 bg-white text-black shadow-md sm:grid-cols-2"
     >
-      <div className="container flex justify-between py-4 sm:py-3">
+      <div className="container text-primary flex justify-between py-4 sm:py-3">
         {/* logo section */}
-        <a href="#home" className="font-bold text-3xl ">
-          Logo
+        <a
+          href="#home"
+          className="font-bold text-secondary hover:text-primary text-3xl "
+        >
+          TriDi
         </a>
 
         {/* navlinks section */}
@@ -15,26 +18,26 @@ const Navbar = () => {
           <ul className="flex items-center gap-10">
             <li>
               <a
-                href="#profile"
-                className="inline-block hover:text-primary text-xl font-semibold"
+                href="#profil"
+                className="inline-block hover:text-secondary text-xl font-semibold"
               >
-                Profile
+                Profil
               </a>
             </li>
             <li>
               <a
-                href="#projects"
-                className="inline-block hover:text-primary text-xl font-semibold"
+                href="#produk"
+                className="inline-block hover:text-secondary text-xl font-semibold"
               >
-                Projects
+                Produk
               </a>
             </li>
             <li>
               <a
-                href="#contact"
-                className="inline-block hover:text-primary text-xl font-semibold"
+                href="#kontak"
+                className="inline-block hover:text-secondary text-xl font-semibold"
               >
-                Contact
+                Kontak
               </a>
             </li>
           </ul>

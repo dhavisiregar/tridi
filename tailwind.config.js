@@ -4,10 +4,11 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: "#FDD460",
+        primary: "#00BCD5",
+        secondary: "#FA5624",
       },
       fontFamily: {
-        inter: ["Inter", "sans-serif"],
+        playwrite: ["Playwrite NG Modern", "cursive"],
         cursive: ["Poppins", "cursive"],
       },
       container: {

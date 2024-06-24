@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar/Navbar";
 import Profile from "./components/Profile/Profile";
 import Hero from "./components/Hero/Hero";
 import Contact from "./components/Contact/Contact";
-import Projects from "./components/Projects/Projects";
+import Projects from "./components/Products/Products";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
@@ -26,13 +26,13 @@ const App = () => {
       <div id="home">
         <Hero />
       </div>
-      <div id="profile">
+      <div id="profil">
         <Profile />
       </div>
-      <div id="projects">
+      <div id="produk">
         <Projects />
       </div>
-      <div id="contact">
+      <div id="kontak">
         <Contact />
       </div>
     </div>
