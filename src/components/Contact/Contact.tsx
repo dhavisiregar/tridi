@@ -9,7 +9,7 @@ const Contact = () => {
         <div className="flex justify-center">
           <div className="col-span-full">
             <h1 className="py-10 text-primary text-4xl md:text-5xl lg:text-7xl font-bold text-center">
-              Kontak kami!
+              Hubungi Kami!
             </h1>
           </div>
         </div>

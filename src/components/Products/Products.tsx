@@ -31,10 +31,7 @@ const Projects = () => {
               Nugget Kanzler merupakan Chicken Nugget premium yang terbuat dari
               daging ayam pilihan, renyah diluar dan juicy didalam.
             </p>
-            <a
-              href="https://wa.me/+6282114708006"
-              className="mt-10 mb-2 bg-primary text-white rounded-md p-2 hover:bg-secondary"
-            >
+            <a className="mt-10 mb-2 bg-primary text-white rounded-md p-2 hover:bg-secondary">
               Klik untuk Pesan!
             </a>
           </div>
@@ -52,10 +49,7 @@ const Projects = () => {
               tepung karaage, membuat Sunny Gold Chicken Stick ini menjadi
               olahan yang lezat dan bergizi.
             </p>
-            <a
-              href="https://wa.me/+6282114708006"
-              className="mt-2 mb-2 bg-primary text-white rounded-md p-2 hover:bg-secondary"
-            >
+            <a className="mt-2 mb-2 bg-primary text-white rounded-md p-2 hover:bg-secondary">
               Klik untuk Pesan!
             </a>
           </div>
@@ -70,10 +64,7 @@ const Projects = () => {
               Makanan instan berupa daging Ayam goreng yang terbuat dari daging
               Ayam pilihan yang dikemas secara higienis, sehat dan praktis
             </p>
-            <a
-              href="https://wa.me/+6282114708006"
-              className="mt-14 mb-2 bg-primary text-white rounded-md p-2 hover:bg-secondary"
-            >
+            <a className="mt-14 mb-2 bg-primary text-white rounded-md p-2 hover:bg-secondary">
               Klik untuk Pesan!
             </a>
           </div>
@@ -91,10 +82,7 @@ const Projects = () => {
               kelezatan dengan kombinasi rasa pedas manis kaya akan bumbu dan
               meresap hingga ke dalam setiap gigitannya.
             </p>
-            <a
-              href="https://wa.me/+6282114708006"
-              className="mt-8 mb-2 bg-primary text-white rounded-md p-2 hover:bg-secondary"
-            >
+            <a className="mt-8 mb-2 bg-primary text-white rounded-md p-2 hover:bg-secondary">
               Klik untuk Pesan!
             </a>
           </div>
@@ -112,10 +100,7 @@ const Projects = () => {
               dengan racikan bumbu spesial akan menambah nikmat masakan yang
               disajikan.
             </p>
-            <a
-              href="https://wa.me/+6282114708006"
-              className="mt-7 mb-2 bg-primary text-white rounded-md p-2 hover:bg-secondary"
-            >
+            <a className="mt-7 mb-2 bg-primary text-white rounded-md p-2 hover:bg-secondary">
               Klik untuk Pesan!
             </a>
           </div>
@@ -137,10 +122,42 @@ const Projects = () => {
               Smoked Beef. Dibuat dari daging sapi pilihan yang diproses dengan
               metode pengasapan tradisional.
             </p>
-            <a
-              href="https://wa.me/+6282114708006"
-              className="mt-2 mb-2 bg-primary text-white rounded-md p-2 hover:bg-secondary"
-            >
+            <a className="mt-2 mb-2 bg-primary text-white rounded-md p-2 hover:bg-secondary">
+              Klik untuk Pesan!
+            </a>
+          </div>
+          <div
+            data-aos="fade-up"
+            data-aos-delay="700"
+            className="w-full sm:w-72 p-5 bg-white flex flex-col items-center text-center rounded-lg"
+          >
+            <img src={Nugget} alt="" className="w-72 sm:w-3/5 lg:w-22" />
+            <h3 className="mt-4 mb-2 text-lg font-bold">
+              Chicken Nugget Kanzler
+            </h3>
+            <p className="mt-2 mb-2 text-sm text-justify">
+              Nugget Kanzler merupakan Chicken Nugget premium yang terbuat dari
+              daging ayam pilihan, renyah diluar dan juicy didalam.
+            </p>
+            <a className="mt-10 mb-2 bg-primary text-white rounded-md p-2 hover:bg-secondary">
+              Klik untuk Pesan!
+            </a>
+          </div>
+          <div
+            data-aos="fade-up"
+            data-aos-delay="700"
+            className="w-full sm:w-72 p-5 bg-white flex flex-col items-center text-center rounded-lg"
+          >
+            <img src={Sunny} alt="" className="w-72 sm:w-3/5 lg:w-22" />
+            <h3 className="mt-4 mb-2 text-lg font-bold">
+              Chicken Stick Sunny Gold
+            </h3>
+            <p className="mt-2 mb-2 text-sm text-justify">
+              Terbuat dari daging ayam pilihan dibalut dengan racikan premix
+              tepung karaage, membuat Sunny Gold Chicken Stick ini menjadi
+              olahan yang lezat dan bergizi.
+            </p>
+            <a className="mt-2 mb-2 bg-primary text-white rounded-md p-2 hover:bg-secondary">
               Klik untuk Pesan!
             </a>
           </div>
